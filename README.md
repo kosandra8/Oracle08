@@ -11,9 +11,15 @@
 - 🥅 2021 Goals: Finish my discord bot project and use it in my discord server
 - 🤓 Fun fact: I love to study, code and play the piano
 
-### Spotify Playing 🎧
+### Github Stats:
+[![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oracle08&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oracle08&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/9xc6nzszso7tijhctteii0xn1)
+### Listening to Spotify: 
+[![Spotify](https://novatorem-oracle08.vercel.app/api/spotify)](https://open.spotify.com/user/9xc6nzszso7tijhctteii0xn1)
+
+
+
 
 ### Connect with me:
 [<img align="left" alt="JessicaTheOracle | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" />][discord]
@@ -38,19 +44,15 @@
 <br />
 <br />
 
----
+### Github Streak:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Oracle08&theme=radical&hide_border=true&fire=DD2727&sideNums=DD35B5&currStreakNum=3CDD23)](https://git.io/streak-stats)
 
 
-
-
-<details>
-  <summary>:chart_with_upwards_trend: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-oracle08.vercel.app/api?username=Oracle08&show_icons=true&hide_border=true" />
-
-</details>
-
-[discord]: https://discords.com/bio/p/040806
+[discord]: https://discords.com/bio/p/040806 
 [gmail]: jessica040806@gmail.com
+
+
+
 
 
