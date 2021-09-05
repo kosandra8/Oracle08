@@ -1,17 +1,18 @@
+<h1 align="center">  Hi there, I'm Jessica - aka The Oracle 👧🏽 </h1>
 
 
-## Hi there, I'm Jessica - aka The Oracle 👧🏽
+<h3 align="center"> I'm a student, 15 year old programmer and a future software developer!! </h3>
 
+<p align="center"> - 🤖 Started coding since last year and been coding for a total of 6 months </p>
+<p align="center"> - ‍💻 Self taught programmer and my favourite language is Python 🐍 </p>
+<p align="center"> - 🤝 I’m looking to collaborate with other programmers and creators </p>
+<p align="center"> - 🥅 2021 Goals: Finish my discord bot project and use it in my discord server </p>
+<p align="center"> - 🤓 Fun fact: I love to study, code and play the piano </p>
 
-### I'm a student, 15 year old programmer and a future software developer!!
+<p align="center"> <img src= "https://komarev.com/ghpvc/?username=Oracle08&color=blueviolet">
 
-- 🤖 Started coding since last year and been coding for a total of 6 months
-- ‍💻 Self taught programmer and my favourite language is Python 🐍
-- 🤝 I’m looking to collaborate with other programmers and creators
-- 🥅 2021 Goals: Finish my discord bot project and use it in my discord server
-- 🤓 Fun fact: I love to study, code and play the piano
+</p>
 
-![](https://komarev.com/ghpvc/?username=Oracle08&color=blueviolet)
 
 ### Github Stats:
 [![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oracle08&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
