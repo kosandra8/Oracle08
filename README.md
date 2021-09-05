@@ -11,6 +11,8 @@
 - 🥅 2021 Goals: Finish my discord bot project and use it in my discord server
 - 🤓 Fun fact: I love to study, code and play the piano
 
+![](https://komarev.com/ghpvc/?username=Oracle08&color=blueviolet)
+
 ### Github Stats:
 [![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oracle08&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oracle08&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
